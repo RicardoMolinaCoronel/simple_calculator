@@ -1,0 +1,4 @@
+
+
+def afunction():
+    return "afunction"
